@@ -1,4 +1,4 @@
-# node-todo-cicd
+# NTS_Project
 
 Run these commands:
 
@@ -10,10 +10,4 @@ Run these commands:
 
 
 `npm install`
-
-`node app.js`
-
-or Run by docker compose
-
-test
 
